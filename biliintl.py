@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
-# @Time： 2023/2/18 22:07
+# @Time: 2023/2/18 22:07
 # @FileName: biliintl.py
-# @Software： PyCharm
+# @Software: PyCharm
 # @GitHub: KimmyXYC
 import asyncio
 import aiohttp
